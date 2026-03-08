@@ -1,9 +1,11 @@
 # Albireo compatible USB ports for the Amstrad CPC
 
-For more information regarding the Albireo, see here: https://www.cpcwiki.eu/index.php/Albireo
+Original Albireo-project: https://www.cpcwiki.eu/index.php/Albireo
+
+This project is not directly relate to the Albireo project so please do not ask the Albireo developer for any support. 
 
 > [!IMPORTANT]
-> This is not a full Albireo replacement. The PCB here only provides the option to connect up to two USB CH376s modules as used in many DIY microprocessor projects. No SD-Card or other features are included. Also please don't ask the Albireo developer for any support.
+> This is not a full Albireo replacement. The PCB here only provides the option to connect up to two USB CH376s modules as used in many DIY microprocessor projects. No SD-Card or other features are included. 
 > 
 > Regarding SD support: It might be possible to add a SD card slot directly to the CH376 IC on the CH376 daughterboard but this is not guaranteed to work. 
 
