@@ -2,7 +2,7 @@
 
 Original Albireo-project: https://www.cpcwiki.eu/index.php/Albireo
 
-This project is not directly relate to the Albireo project so please do not ask the Albireo developer for any support. 
+This project is not directly related to the Albireo project so please do not ask the Albireo developer for any support. 
 
 > [!IMPORTANT]
 > This is not a full Albireo replacement. The PCB here only provides the option to connect up to two USB CH376s modules as used in many DIY microprocessor projects. No SD-Card or other features are included. 
