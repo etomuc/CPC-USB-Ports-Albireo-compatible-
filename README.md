@@ -36,6 +36,7 @@ If a USB module is not populated you can also leave empty the corresponding 74HC
 
 Make sure to get the right USB module. There are at least 2 different variants. Select the one with 6 pins on the side and the correct pinout for the main header:
 
-PCBs you can order at PCBWay here: 
-or download the Gerbers from the files directory.
+<img src="/pictures/albireo-BOM.jpg" width="640"/> 
+
+
 
