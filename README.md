@@ -7,13 +7,15 @@ For more information regarding the Albireo, see here: https://www.cpcwiki.eu/ind
 > 
 > Regarding SD support: It might be possible to add a SD card slot directly to the CH376 IC on the CH376 daughterboard but this is not guaranteed to work. 
 
-<img src="/pictures/albireo-pcb.jpg" width="640"/> 
+<img src="/pictures/albireo.jpg" width="640"/> 
 
 You can populate one or both USB modules. The left listens to port &FE80/81 the right one to &FE40/41.
 
 If a USB module is not populated you can also leave empty the corresponding 74HCT688 in the same spot. The 74HCT688 on the left is always required. 
 
 ## Building
+
+<img src="/pictures/albireo-pcb.jpg" width="640"/> 
 
 > [!CAUTION]
 >**USE AT YOUR OWN RISK.**
