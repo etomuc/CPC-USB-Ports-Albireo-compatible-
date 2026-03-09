@@ -7,7 +7,7 @@ This project is not directly related to the Albireo project so please do not ask
 > [!IMPORTANT]
 > This is not a full Albireo replacement. The PCB here only provides the option to connect up to two USB CH376s modules as used in many DIY microprocessor projects. No SD-Card or other features are included. 
 > 
-> Regarding SD support: It might be possible to add a SD card slot directly to the CH376 IC on the CH376 daughterboard but this is not guaranteed to work. 
+> Regarding SD support: It might be possible to add a SD card slot module directly to the CH376 IC on the CH376 daughterboard but this has not been tested.
 
 <img src="/pictures/albireo.jpg" width="640"/> 
 
