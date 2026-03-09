@@ -37,6 +37,8 @@ If a USB module is not populated you can also leave empty the corresponding 74HC
 | MX4 connector - angled | e.g. 710-61205021721  | x1 |
 | Capacitor 100nF 104 2.5mm | 581-AR155C104K4R | x2 or x3 |
 | Capacitor 10uF (or 22uF) - 2.0mm | e.g. 598-106SVF025M  | x1 |
+| Socket Header 2x3 | ? | x1 or x2 |
+| Socket Header 2x8 | ? | x1 or x2 |
 
 Make sure to get the right USB module. There are at least 2 different variants. Select the one with 6 pins on the side and the correct pinout for the main header:
 
